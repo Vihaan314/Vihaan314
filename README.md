@@ -2,7 +2,7 @@
 
 
 ## About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science;Programming;Mathematics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science;Mathematics;Chess)](https://git.io/typing-svg)
 
 
 
