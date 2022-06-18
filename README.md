@@ -2,7 +2,8 @@
 
 
 ## About Me:
-A computer science enthusiast who also loves mathematics and chess
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science;Programming;Mathematics)](https://git.io/typing-svg)
+
 
 
 ## My Skills:
