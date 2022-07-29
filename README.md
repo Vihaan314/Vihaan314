@@ -21,7 +21,7 @@
   
 ### Frameworks:
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,jquery" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,react" />
   </a>
  
 ### Other: 
