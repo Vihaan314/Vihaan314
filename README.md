@@ -1,30 +1,19 @@
 # Hi there, I'm Vihaan 
-
-
-## About Me:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science;Mathematics;Chess)](https://git.io/typing-svg)
 
 
 
 ## My Skills:
 
-### Languages:
-
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,python,cpp,java,css,github,html" />
   </a>
-
-### Audio + Video Editing:
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,au,ps,pr" />
   </a>
-  
-### Frameworks:
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,jquery,react" />
-  </a>
- 
-### Other: 
+  </a> 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,eclipse,idea,powershell,vscode" />
   </a>
