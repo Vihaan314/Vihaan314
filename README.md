@@ -30,5 +30,4 @@
 
 [![Vihaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vihaan314&theme=tokyonight&show_icons=true)](https://github.com/Vihaan314/github-readme-stats)
 
-[![Downloads](https://static.pepy.tech/personalized-badge/mammath?period=total&units=international_system&left_color=black&right_color=blue&left_text=Mammath Downloads)](https://pepy.tech/project/mammath) 
-
+[![Downloads](https://static.pepy.tech/personalized-badge/mammath?period=total&units=international_system&left_color=black&right_color=blue&left_text=Mammath%20Downloads)](https://pepy.tech/project/mammath)
