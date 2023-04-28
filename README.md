@@ -1,5 +1,5 @@
 # Hi there, I'm Vihaan 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science;Mathematics;Chess)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science;Mathematics;Physics;Chess)](https://git.io/typing-svg)
 
 
 
