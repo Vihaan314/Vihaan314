@@ -3,7 +3,7 @@
 
 
 
-## My Skills:
+## My skills:
 
 <!-- <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,python,cpp,java,css,github,html" />
@@ -20,7 +20,10 @@
 
  [![My Skills](https://skillicons.dev/icons?i=ae,bash,bootstrap,c,cs,cpp,css,eclipse,flask,git,github,html,idea,java,js,jquery,linux,md,nodejs,powershell,pr,py,react,sqlite,tailwind,unity,visualstudio,vscode&perline=14)](https://skillicons.dev)
 
-<br />
+## Top languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vihaan314&hide=shaderlab,hlsl&layout=compact)
+
 
 
 ## <a href="https://youtube.com/channel/UC9GlZhshzHUk-tnf-vBruug/">My YouTube Channel</a>
@@ -32,5 +35,6 @@
 <!-- 
 [![Vihaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vihaan314&theme=tokyonight&show_icons=true)](https://github.com/Vihaan314/github-readme-stats) -->
 
-## <a href="https://github.com/vhprogrammingorg/mammath">Mammath</a>
+## <a href="https://github.com/vhprogrammingorg/mammath">Packages</a>
 [![Downloads](https://static.pepy.tech/personalized-badge/mammath?period=total&units=international_system&left_color=black&right_color=blue&left_text=Mammath%20Downloads)](https://pepy.tech/project/mammath)
+[![Downloads](https://static.pepy.tech/personalized-badge/cipherloom?period=total&units=international_system&left_color=black&right_color=blue&left_text=Cipherloom%20Downloads)](https://pepy.tech/project/cipherloom)
