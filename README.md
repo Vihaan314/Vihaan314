@@ -22,7 +22,7 @@
 
 ## Top languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vihaan314&hide=shaderlab,hlsl&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vihaan314&hide=shaderlab,hlsl&layout=compact&theme=catppuccin_latte)
 
 
 
