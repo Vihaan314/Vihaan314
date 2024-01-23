@@ -25,12 +25,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vihaan314&hide=shaderlab,hlsl&layout=compact&theme=catppuccin_latte)
 
 
-
+<!--
 ## <a href="https://youtube.com/channel/UC9GlZhshzHUk-tnf-vBruug/">My YouTube Channel</a>
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9GlZhshzHUk-tnf-vBruug?label=Subscribers&style=flat-square)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC9GlZhshzHUk-tnf-vBruug?style=flat-square)
-
+-->
 ---
 <!-- 
 [![Vihaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vihaan314&theme=tokyonight&show_icons=true)](https://github.com/Vihaan314/github-readme-stats) -->
