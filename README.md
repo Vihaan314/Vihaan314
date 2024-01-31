@@ -1,4 +1,4 @@
-# Hi there, I'm Vihaan 
+# Hello, I'm Vihaan 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science;Mathematics;Physics;Chess)](https://git.io/typing-svg)
 
 
